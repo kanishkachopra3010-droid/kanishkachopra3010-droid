@@ -1,21 +1,105 @@
-<h1 align="center">Hi 👋, I'm Kanishka Chopra</h1>
-<h3 align="center">A passionate web developer</h3>
+<!-- ===================== HEADER ===================== -->
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kanishkachopra3010-droid&label=Profile%20views&color=0e75b6&style=flat" alt="kanishkachopra3010-droid" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Kanishka%20Chopra&fontSize=60&fontAlignY=38&desc=A%20passionate%20web%20developer&descSize=22&descAlignY=60&animation=fadeIn" alt="header" width="100%"/>
 
-- 🌱 I’m currently learning **Python, HTML, CSS, C, MySQL, JavaScript**
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Kanishka;Learning+Python+%7C+HTML+%7C+CSS+%7C+C;Building+projects%2C+one+commit+at+a+time;Open+to+collaborate+and+learn" alt="Typing SVG" />
+</a>
 
-- 👨‍💻 All of my projects are available at [https://github.com/kanishkachopra3010-droid](https://github.com/kanishkachopra3010-droid)
-
-- 💬 Ask me about **Python, HTML, CSS**
-
-- 📫 How to reach me **kanishkachopra3010@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/armygurl7777777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="armygurl7777777" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kanishka-chopra-secret773010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanishka-chopra-secret773010" height="30" width="40" /></a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=kanishkachopra3010-droid&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/kanishkachopra3010-droid?tab=followers"><img src="https://img.shields.io/github/followers/kanishkachopra3010-droid?style=flat&logo=github&color=0e75b6" alt="Followers" /></a>
+  <a href="https://github.com/kanishkachopra3010-droid?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repos-explore-0e75b6?style=flat&logo=github" alt="Repos" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+- 🌱 Currently learning **Python, HTML, CSS, C, MySQL, JavaScript**
+- 💬 Ask me about **Python, HTML, CSS**
+- 🎯 Goal: become a confident full-stack web developer
+- 📂 All my projects live at [github.com/kanishkachopra3010-droid](https://github.com/kanishkachopra3010-droid)
+- 📫 Reach me at **kanishkachopra3010@gmail.com**
+
+---
+
+## 🛠️ Languages & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,c,mysql,linux,git,github,vscode&perline=10" alt="Skills" />
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=kanishkachopra3010-droid&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanishkachopra3010-droid&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanishkachopra3010-droid&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanishkachopra3010-droid&theme=tokyo-night&hide_border=true&area=true&radius=16" alt="Contribution graph" width="100%" />
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kanishkachopra3010-droid&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<!--
+  HOW TO ADD FEATURED PROJECTS
+  1. Copy the block below for each project (3–6 is ideal).
+  2. Replace YOUR_REPO_NAME with the exact repository name.
+  3. Remove the "<!--" and "-->" around the block to make it visible.
+
+<div align="center">
+  <a href="https://github.com/kanishkachopra3010-droid/YOUR_REPO_NAME">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanishkachopra3010-droid&repo=YOUR_REPO_NAME&theme=tokyonight&hide_border=true" alt="Project 1" />
+  </a>
+  <a href="https://github.com/kanishkachopra3010-droid/YOUR_REPO_NAME_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kanishkachopra3010-droid&repo=YOUR_REPO_NAME_2&theme=tokyonight&hide_border=true" alt="Project 2" />
+  </a>
+</div>
+-->
+
+<div align="center">
+
+✨ Projects are being added regularly — **[browse all my repositories →](https://github.com/kanishkachopra3010-droid?tab=repositories)**
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+  <a href="https://twitter.com/armygurl7777777"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://linkedin.com/in/kanishka-chopra-secret773010"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:kanishkachopra3010@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" width="100%"/>
+</div>
