@@ -21,7 +21,7 @@
 
 - 🌱 Currently learning **Python, HTML, CSS, C, MySQL, JavaScript**
 - 💬 Ask me about **Python, HTML, CSS**
-- 🎯 Goal: become a confident full-stack web developer
+- 🎯 Goal: become a Cloud Security Architect
 - 📂 All my projects live at [github.com/kanishkachopra3010-droid](https://github.com/kanishkachopra3010-droid)
 - 📫 Reach me at **kanishkachopra3010@gmail.com**
 
